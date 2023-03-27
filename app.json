@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "academy-demo",
     "name": "academy-demo",
     "slug": "academy-demo",
     "version": "1.0.0",
